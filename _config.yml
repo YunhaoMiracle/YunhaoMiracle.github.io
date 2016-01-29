@@ -1,9 +1,8 @@
 # Site settings
-title: Clean
+title: Miracle-
 email: yunhao39xue@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
+  My name is Yunhao Xue, I'd like to share my daily life here, hope you enjor :)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://YunhaoMiracle.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
