@@ -4,10 +4,10 @@
     <title>Clean</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml.
 </description>
-    <link>http://YunhaoMiracle.github.io/clean/</link>
-    <atom:link href="http://YunhaoMiracle.github.io/clean/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jan 2016 00:47:54 -0500</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2016 00:47:54 -0500</lastBuildDate>
+    <link>http://YunhaoMiracle.github.io/</link>
+    <atom:link href="http://YunhaoMiracle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 26 Jan 2016 08:50:22 -0500</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2016 08:50:22 -0500</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -45,8 +45,8 @@
 
 </description>
         <pubDate>Sat, 26 Sep 2015 14:51:59 -0400</pubDate>
-        <link>http://YunhaoMiracle.github.io/clean/jekyll/update/2015/09/26/clean-theme.html</link>
-        <guid isPermaLink="true">http://YunhaoMiracle.github.io/clean/jekyll/update/2015/09/26/clean-theme.html</guid>
+        <link>http://YunhaoMiracle.github.io/jekyll/update/2015/09/26/clean-theme.html</link>
+        <guid isPermaLink="true">http://YunhaoMiracle.github.io/jekyll/update/2015/09/26/clean-theme.html</guid>
         
         
         <category>jekyll</category>
@@ -60,8 +60,8 @@
         <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://YunhaoMiracle.github.io/clean/jekyll/update/2015/09/26/hello.html</link>
-        <guid isPermaLink="true">http://YunhaoMiracle.github.io/clean/jekyll/update/2015/09/26/hello.html</guid>
+        <link>http://YunhaoMiracle.github.io/jekyll/update/2015/09/26/hello.html</link>
+        <guid isPermaLink="true">http://YunhaoMiracle.github.io/jekyll/update/2015/09/26/hello.html</guid>
         
         
         <category>jekyll</category>

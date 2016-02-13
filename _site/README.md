@@ -1,4 +1,4 @@
-### Clean Theme
+Blog for Yunhao Xue
 
-![Alt text](screen.png)
+Using **Clean** Theme.
 
